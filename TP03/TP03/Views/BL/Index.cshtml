@@ -1,0 +1,68 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>BLs</title>
+</head>
+<body>
+    @Html.Partial("_Menu")
+
+    <div class="jumbotron vertical-center">
+        <div class="container">
+            @if (ViewBag.BLs != null)
+            {
+                <h1 align="center">BLs</h1>
+
+                <table class='table table-borderless table-striped table-hover'>
+                    <thead>
+                        <tr>
+                            <th scope='col'>Número</th>
+                            <th scope='col'>Consignee</th>
+                            <th scope='col'>Navio</th>
+                            <th scope='col' />
+                            <th scope='col' />
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in ViewBag.BLs)
+                        {
+                            <tr>
+                                <td scope='row'>@item.Num</td>
+                                <td scope='row'>@item.Consignee</td>
+                                <td scope='row'>@item.Navio</td>
+                                <td scope='row'><a href="/BL/Atualizar?id=@item.Num">Atualizar</a></td>
+                                <td scope='row'>
+                                    <form action="/BL/Exclui" method="post">
+                                        <input type="hidden" value="@item.Num" name="id" />
+                                        <a href="#" onclick="this.parentNode.submit();">Excluir</a>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h1 align="center">Nenhum Boy Love encontrado</h1>
+                <img class="rounded mx-auto d-block" src="https://c.tenor.com/yySpWmq5qGoAAAAC/kanbaru-suruga-sad.gif" alt="(ಥ﹏ಥ)" />
+            }
+
+        </div>
+    </div>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+</body>
+</html>

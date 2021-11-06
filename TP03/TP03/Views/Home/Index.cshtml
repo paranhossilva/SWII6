@@ -1,0 +1,37 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+        <title>Trabalho Prático 3</title>
+    </head>
+    <body>
+        @Html.Partial("_Menu")
+
+        <div class="jumbotron vertical-center">
+            <div class="container">
+                <h1 align="center">Trabalho Prático 3</h1>
+
+                <ul class="list-group" align="center">
+                    <li class="list-group-item"><a href="/BL">Listar BLs</a></li>
+                    <li class="list-group-item"><a href="/BL/Adicionar">Adicionar BL</a></li>
+                    <li class="list-group-item"><a href="/Container">Listar Containers</a></li>
+                    <li class="list-group-item"><a href="/Container/Adicionar">Adicionar Container</a></li>
+                    <li class="list-group-item"><a href="/Home/About">Créditos</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+    </body>
+</html>
