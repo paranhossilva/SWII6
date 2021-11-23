@@ -1,0 +1,54 @@
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\FormsApp.exe.config
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\FormsApp.exe
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\FormsApp.pdb
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\Newtonsoft.Json.dll
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\Newtonsoft.Json.xml
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.FrmMain.resources
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.exe
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.pdb
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.FrmAtualiza.resources
+D:\Bruno\Documents\Visual Studio 2019\TP04\FormsApp\obj\Debug\FormsApp.FrmAdd.resources
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\FormsApp.exe.config
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\FormsApp.exe
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\FormsApp.pdb
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\Newtonsoft.Json.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\Newtonsoft.Json.xml
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.FrmAtualiza.resources
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.FrmAdd.resources
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.FrmMain.resources
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.exe
+D:\Bruno\OneDrive\IFSP\ADS\ADS671\SWII6\TP04\FormsApp\obj\Debug\FormsApp.pdb
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\brunops\Downloads\TP04\FormsApp\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.FrmAtualiza.resources
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.FrmAdd.resources
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.FrmMain.resources
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\brunops\Downloads\TP04\FormsApp\obj\Debug\FormsApp.pdb
