@@ -1,0 +1,58 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Atualizar Produto</title>
+</head>
+<body>
+
+    <div class="jumbotron vertical-center">
+        <div class="container">
+
+            <form class="needs-validation" method="post" name="cadastro" action="/Produto/Atualiza">
+                <label>Nome</label><br />
+                <input class="form-control" id="nome_id" type="text" name="nome" maxlength="40" value="@ViewBag.Produto.Nome" required /><br />
+
+                <label>Preço</label><br />
+                <input class="form-control" type="number" name="preco" step="0.01" value="@ViewBag.Produto.Preco" required /><br />
+
+                @if (ViewBag.Produto.Status)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="status_id" name="status" value="true" checked/>
+                        <label class="form-check-label" for="status_id">Produto Ativo</label><br />
+                    </div><br />
+                }
+                else
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="status_id" name="status" value="true" />
+                        <label class="form-check-label" for="status_id">Produto Ativo</label><br />
+                    </div><br />
+                }
+
+                <label for="status_id">Produto Ativo</label><br />
+
+                <input type="hidden" value="@ViewBag.Produto.Id" name="id" />
+
+                <input type="hidden" value="@Session["id"].ToString()" name="idUp" />
+
+                <input class="btn btn-lg btn-block" style="background-color: #4800ff; color: white;" id="botao_id" type="submit" value="Enviar" />
+                <input class="btn btn-lg btn-block" style="background-color: #4800ff; color:white;" id="limpar" type="reset" value="Limpar" />
+            </form>
+
+        </div>
+    </div>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+</body>
+</html>
